@@ -6,7 +6,7 @@
     "crop": "Rice",
     "price": 499,
     "rating": 4.5,
-    "image": "/images/seeds/rice.jpg",
+    "image": "images/seeds/rice.jpg",
     "description": "High-quality rice seeds suitable for healthy crop production."
   },
   {
@@ -16,7 +16,7 @@
     "crop": "Rice",
     "price": 599,
     "rating": 4.6,
-    "image": "/images/seeds/rice.jpg",
+    "image": "images/seeds/rice.jpg",
     "description": "Hybrid rice seeds selected for good growth and productivity."
   },
   {
@@ -26,7 +26,7 @@
     "crop": "Tomato",
     "price": 299,
     "rating": 4.4,
-    "image": "/images/seeds/tomato.jpg",
+    "image": "images/seeds/tomato.jpg",
     "description": "Quality tomato seeds suitable for regular farm cultivation."
   },
   {
@@ -36,7 +36,7 @@
     "crop": "Tomato",
     "price": 379,
     "rating": 4.5,
-    "image": "/images/seeds/tomato.jpg",
+    "image": "images/seeds/tomato.jpg",
     "description": "Hybrid tomato seeds for strong plants and quality fruits."
   },
   {
@@ -46,7 +46,7 @@
     "crop": "Chilli",
     "price": 349,
     "rating": 4.3,
-    "image": "/images/seeds/chilli.jpg",
+    "image": "images/seeds/chilli.jpg",
     "description": "Premium chilli seeds suitable for farm cultivation."
   },
   {
@@ -56,7 +56,7 @@
     "crop": "Maize",
     "price": 450,
     "rating": 4.6,
-    "image": "/images/seeds/maize.jpg",
+    "image": "images/seeds/maize.jpg",
     "description": "Quality maize seeds selected for healthy crop growth."
   },
   {
@@ -66,7 +66,7 @@
     "crop": "Groundnut",
     "price": 525,
     "rating": 4.4,
-    "image": "/images/seeds/groundnut.jpg",
+    "image": "images/seeds/groundnut.jpg",
     "description": "Good quality groundnut seeds for farm cultivation."
   },
   {
@@ -76,7 +76,7 @@
     "crop": "Cotton",
     "price": 699,
     "rating": 4.5,
-    "image": "/images/seeds/cotton.jpg",
+    "image": "images/seeds/cotton.jpg",
     "description": "Hybrid cotton seeds suitable for cotton farming."
   },
   {
@@ -86,7 +86,7 @@
     "crop": "Onion",
     "price": 275,
     "rating": 4.2,
-    "image": "/images/seeds/onion.jpg",
+    "image": "images/seeds/onion.jpg",
     "description": "Quality red onion seeds for farm and field cultivation."
   },
   {
@@ -96,7 +96,7 @@
     "crop": "All",
     "price": 549,
     "rating": 4.5,
-    "image": "/images/fertilizers/npk.jpg",
+    "image": "images/fertilizers/npk.jpg",
     "description": "Balanced fertilizer providing essential nutrients for crops."
   },
   {
@@ -106,7 +106,7 @@
     "crop": "All",
     "price": 399,
     "rating": 4.4,
-    "image": "/images/fertilizers/organic.jpg",
+    "image": "images/fertilizers/organic.jpg",
     "description": "Organic fertilizer for improving soil and supporting crop growth."
   },
   {
@@ -116,7 +116,7 @@
     "crop": "All",
     "price": 299,
     "rating": 4.6,
-    "image": "/images/fertilizers/vermicompost.jpg",
+    "image": "images/fertilizers/vermicompost.jpg",
     "description": "Natural vermicompost suitable for improving soil quality."
   },
   {
@@ -126,7 +126,7 @@
     "crop": "Rice",
     "price": 475,
     "rating": 4.3,
-    "image": "/images/fertilizers/potash.jpg",
+    "image": "images/fertilizers/potash.jpg",
     "description": "Potash fertilizer for supporting healthy crop development."
   },
   {
@@ -136,7 +136,7 @@
     "crop": "Tomato",
     "price": 325,
     "rating": 4.4,
-    "image": "/images/fertilizers/vermicompost.jpg",
+    "image": "images/fertilizers/vermicompost.jpg",
     "description": "Micronutrient mix for supporting balanced crop nutrition."
   },
   {
@@ -146,7 +146,7 @@
     "crop": "All",
     "price": 325,
     "rating": 4.3,
-    "image": "/images/protection/neem.jpg",
+    "image": "images/protection/neem.jpg",
     "description": "Neem-based crop protection product for farm use."
   },
   {
@@ -156,7 +156,7 @@
     "crop": "Tomato",
     "price": 599,
     "rating": 4.2,
-    "image": "/images/protection/crop-protection.jpg",
+    "image": "images/protection/crop-protection.jpg",
     "description": "Crop protection product designed for tomato cultivation."
   },
   {
@@ -166,7 +166,7 @@
     "crop": "Chilli",
     "price": 449,
     "rating": 4.4,
-    "image": "/images/protection/crop-protection.jpg",
+    "image": "images/protection/crop-protection.jpg",
     "description": "Crop protection product suitable for chilli cultivation."
   },
   {
@@ -176,7 +176,7 @@
     "crop": "Rice",
     "price": 525,
     "rating": 4.3,
-    "image": "/images/protection/crop-protection.jpg",
+    "image": "images/protection/crop-protection.jpg",
     "description": "Crop protection product suitable for rice farming."
   },
   {
@@ -186,7 +186,7 @@
     "crop": "All",
     "price": 799,
     "rating": 4.5,
-    "image": "/images/tools/farming-gloves.jpg",
+    "image": "images/tools/farming-gloves.jpg",
     "description": "Useful collection of basic tools for everyday farm work."
   },
   {
@@ -196,7 +196,7 @@
     "crop": "All",
     "price": 699,
     "rating": 4.4,
-    "image": "/images/tools/sprayer.jpg",
+    "image": "images/tools/sprayer.jpg",
     "description": "Manual sprayer suitable for applying farm products."
   },
   {
@@ -206,7 +206,7 @@
     "crop": "All",
     "price": 499,
     "rating": 4.3,
-    "image": "/images/tools/hoe.jpg",
+    "image": "images/tools/hoe.jpg",
     "description": "Strong farming hoe for soil preparation and farm work."
   },
   {
@@ -216,7 +216,7 @@
     "crop": "All",
     "price": 299,
     "rating": 4.2,
-    "image": "/images/tools/pruning-cutter.jpg",
+    "image": "images/tools/pruning-cutter.jpg",
     "description": "Hand pruning cutter for trimming plants and branches."
   },
   {
@@ -226,7 +226,7 @@
     "crop": "All",
     "price": 199,
     "rating": 4.3,
-    "image": "/images/tools/gloves.jpg",
+    "image": "images/tools/gloves.jpg",
     "description": "Comfortable protective gloves for farm activities."
   },
   {
@@ -236,7 +236,7 @@
     "crop": "All",
     "price": 349,
     "rating": 4.1,
-    "image": "/images/tools/sprayer.jpg",
+    "image": "images/tools/sprayer.jpg",
     "description": "Easy-to-use watering can for plants and small farms."
   },
   {
@@ -246,7 +246,7 @@
     "crop": "All",
     "price": 275,
     "rating": 4.2,
-    "image": "/images/tools/hand-weeder.jpg",
+    "image": "images/tools/hand-weeder.jpg",
     "description": "Hand tool designed for removing unwanted weeds."
   }
 ]
