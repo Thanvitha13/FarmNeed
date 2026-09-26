@@ -532,51 +532,66 @@ button {
 /* =========================
    SEARCH AREA
 ========================= */
-
 .search-area {
   background: white;
-  padding: 45px 8%;
+  padding: 55px 8%;
   text-align: center;
   border-bottom: 1px solid #e5e7eb;
 }
 
 .search-area h2 {
-  font-size: 28px;
+  font-size: 30px;
   color: #173d2a;
-  margin-bottom: 22px;
+  margin-bottom: 25px;
 }
 
 .search-box {
-  max-width: 700px;
+  max-width: 750px;
   margin: auto;
   display: flex;
+  align-items: center;
   background: white;
-  border: 1px solid #d8e2da;
-  border-radius: 10px;
-  padding: 5px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.06);
+  border: 2px solid #d8e2da;
+  border-radius: 14px;
+  padding: 6px;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.07);
+  transition: 0.3s;
+}
+
+.search-box:focus-within {
+  border-color: #18864b;
+  box-shadow: 0 6px 25px rgba(24, 134, 75, 0.15);
 }
 
 .search-box input {
   flex: 1;
   border: none;
   outline: none;
-  padding: 13px 15px;
-  font-size: 15px;
+  padding: 14px 16px;
+  font-size: 16px;
+  color: #1f2937;
   background: transparent;
+}
+
+.search-box input::placeholder {
+  color: #9ca3af;
 }
 
 .search-box button {
   border: none;
   background: #18864b;
   color: white;
-  padding: 0 22px;
-  border-radius: 7px;
+  padding: 13px 24px;
+  border-radius: 9px;
   font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .search-box button:hover {
   background: #116b3b;
+  transform: translateY(-1px);
 }
 
 /* =========================
@@ -696,6 +711,7 @@ button {
   }
 
   .search-box button {
+    width: 100%;
     min-height: 43px;
   }
 
@@ -1105,7 +1121,7 @@ button {
 
 .wishlist-actions {
   display: flex;
-  gap: 8px;
+  gap: 15px;
 }
 
 .wishlist-actions button {
