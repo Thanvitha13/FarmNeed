@@ -339,7 +339,7 @@ function App() {
         <div className="hero-image">🌾</div>
       </div>
 
-      {/* Search */}
+      /* {/* Search */}
 
       <div className="search-area">
         <h2>Find Products for Your Farm</h2>
@@ -354,7 +354,7 @@ function App() {
 
           <button>🔍 Search</button>
         </div>
-      </div>
+      </div> */
 
       {/* Categories */}
 
