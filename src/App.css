@@ -285,7 +285,24 @@ button {
 .product-card button:hover {
   background: #116b3b;
 }
+.product-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
 
+.product-actions button {
+  width: 50%;
+  margin: 0;
+}
+
+.product-actions .wishlist-button,
+.product-actions .compare-button {
+  width: 50%;
+  height: 45px;
+  float: none;
+}
 /* =========================
    BUDGET DEAL
 ========================= */
